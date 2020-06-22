@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/heart.png</file>
+        <file>Image/icon_home_like_after.png</file>
+        <file>Image/icon_home_like_before.png</file>
+        <file>Image/pinglun (3).png</file>
+        <file>Image/redheart.png</file>
+        <file>Image/redheart1.png</file>
+        <file>Image/redheart2.png</file>
+        <file>Image/redheart3.png</file>
+        <file>Image/redheart4.png</file>
+        <file>Image/redheart5.png</file>
+        <file>Image/redheart6.png</file>
+        <file>Image/stop2.png</file>
+        <file>Image/user1.png</file>
+        <file>Image/video.png</file>
+        <file>Image/zan.png</file>
+        <file>Image/zan1.png</file>
+        <file>Image/zhuanfa.png</file>
+    </qresource>
+</RCC>
