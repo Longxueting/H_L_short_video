@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Attention.qml</file>
+        <file>Home.qml</file>
+        <file>Shoot.qml</file>
+        <file>News.qml</file>
+        <file>User.qml</file>
+        <file>User/HeadImage.qml</file>
+        <file>User/Like.qml</file>
+        <file>User/Me.qml</file>
+        <file>User/MyVideo.qml</file>
+        <file>User/PageLike.qml</file>
+    </qresource>
+</RCC>
