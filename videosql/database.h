@@ -1,10 +1,10 @@
 #ifndef Database_H
 #define Database_H
 
-#include <QTextCodec>
+//#include <QTextCodec>
 #include <QSqlDatabase>
 #include <QSqlQuery>
-#include <QTime>
+//#include <QTime>
 #include <QSqlError>
 #include <QtDebug>
 #include <QSqlDriver>
@@ -41,8 +41,11 @@ class Database{
 public:
     bool createConection(string table);//创建一个链接
     bool createTable(string table);       //创建数据库表
-    bool videoInsert(int videoid,char* videoURL,char* videoDescribe,char* author,char* author_img,char* time);
-    bool userInsert(int userid,char* username,char* password);            //插入数据
+    bool videoInsert(int videoid,char* videoURL,char* videoDescribe,char* author,char* author_img,char* time,char* tag);
+    bool userInsert(int userid,char* username,char* password,char* tag);            //插入数据
+    bool islike(int userid,int videoid);
+    bool userlikeInsert(int userid,int videoid);
+    bool deleteUserLike(int userid,int videoid);
     bool queryAll();          //查询所有信息
     bool videoUpdate(int id,string key,char* newdata);  //更新
     bool userUpdate(char* username,string key,char* newdata);
