@@ -7,7 +7,9 @@ using namespace std;
 class GetJson{
 public:
     GetJson();
-    GetJson(string tablemame);
+    void GetTableJson(string tablemame);
+    void GetOriginalVideo(string author);
+    void getTagJson(string);
     ~GetJson();
 };
 

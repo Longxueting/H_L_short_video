@@ -25,6 +25,14 @@ int main(int argc, char *argv[])
 //    engine.load(url);
 
 //    return app.exec();
-    GetJson("UserTable");
-
+    GetJson json;
+    //json.GetTableJson("UserTable");
+    //json.GetOriginalVideo("gt");
+//    string tags="abcd";
+//    char tag[]={0};
+//    strncpy(tag,tags.c_str(),tags.length()+1);
+//    for(int i=0;i<tags.length();i++){
+//        cout<<"tag["<<i<<"] :"<<tag[i]<<endl;
+//    }
+    json.getTagJson("a");
 }
