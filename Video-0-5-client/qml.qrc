@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Login.qml</file>
+        <file>Home/Index.qml</file>
+        <file>Image/heart.png</file>
+        <file>Image/icon_home_like_after.png</file>
+        <file>Image/icon_home_like_before.png</file>
+        <file>Image/pinglun (3).png</file>
+        <file>Image/redheart.png</file>
+        <file>Image/redheart1.png</file>
+        <file>Image/redheart2.png</file>
+        <file>Image/redheart3.png</file>
+        <file>Image/redheart4.png</file>
+        <file>Image/redheart5.png</file>
+        <file>Image/redheart6.png</file>
+        <file>Image/stop2.png</file>
+        <file>Image/user1.png</file>
+        <file>Image/video.png</file>
+        <file>Image/zan.png</file>
+        <file>Image/zan1.png</file>
+        <file>Image/zhuanfa.png</file>
+        <file>User/ChangeMessage.qml</file>
+        <file>User/HeadImage.qml</file>
+        <file>User/Like.qml</file>
+        <file>User/Main.qml</file>
+        <file>User/Me.qml</file>
+        <file>User/Message.qml</file>
+        <file>User/MessageItem.qml</file>
+        <file>User/MyPage.qml</file>
+        <file>User/MyVideo.qml</file>
+        <file>User/MyVideoPlay.qml</file>
+        <file>User/PageLike.qml</file>
+        <file>Shoot.qml</file>
+        <file>Home.qml</file>
+        <file>User.qml</file>
+        <file>Attention.qml</file>
+        <file>News.qml</file>
+        <file>Subject.qml</file>
+        <file>main.qml</file>
+        <file>Home/TalkPage.qml</file>
+        <file>Advert.qml</file>
+        <file>Attention/GuanzhuVideo.qml</file>
+        <file>Attention/Follow.qml</file>
+    </qresource>
+</RCC>
